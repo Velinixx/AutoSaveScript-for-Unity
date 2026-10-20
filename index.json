@@ -1,0 +1,208 @@
+﻿{
+    "name":  "Unity AutoSave Listing",
+    "author":  "satania",
+    "url":  "https://velinixx.github.io/AutoSaveScript-for-Unity/index.json",
+    "id":  "satania.autosave.listing",
+    "packages":  {
+                     "satania.autosave":  {
+                                              "versions":  {
+                                                               "2.0.6":  {
+                                                                             "name":  "satania.autosave",
+                                                                             "displayName":  "Unity AutoSave",
+                                                                             "version":  "2.0.6",
+                                                                             "unity":  "2019.4",
+                                                                             "description":  "Unity AutoSave",
+                                                                             "gitDependencies":  {
+
+                                                                                                 },
+                                                                             "vpmDependencies":  {
+
+                                                                                                 },
+                                                                             "author":  {
+                                                                                            "name":  "satania",
+                                                                                            "email":  "osigoto@satania.net",
+                                                                                            "url":  "https://saturnianshop.booth.pm/"
+                                                                                        },
+                                                                             "hideInEditor":  false,
+                                                                             "zipSHA256":  "9cc24385e106112ac3d66f21b2d8ada32ff659aec7288a027a26c40634eabc9f",
+                                                                             "url":  "https://github.com/Velinixx/AutoSaveScript-for-Unity/releases/download/2.0.6/satania.autosave-2.0.6.zip",
+                                                                             "legacyFolders":  {
+
+                                                                                               },
+                                                                             "legacyFiles":  {
+
+                                                                                             },
+                                                                             "localPath":  ""
+                                                                         },
+                                                               "2.0.5":  {
+                                                                             "name":  "satania.autosave",
+                                                                             "displayName":  "Unity AutoSave",
+                                                                             "version":  "2.0.5",
+                                                                             "unity":  "2019.4",
+                                                                             "description":  "Unity AutoSave",
+                                                                             "gitDependencies":  {
+
+                                                                                                 },
+                                                                             "vpmDependencies":  {
+
+                                                                                                 },
+                                                                             "author":  {
+                                                                                            "name":  "satania",
+                                                                                            "email":  "osigoto@satania.net",
+                                                                                            "url":  "https://saturnianshop.booth.pm/"
+                                                                                        },
+                                                                             "hideInEditor":  false,
+                                                                             "zipSHA256":  "00bfea513bbd1071f1e6bbe93561591f7bfe96cf88409225bda97de1e8f09b3f",
+                                                                             "url":  "https://github.com/SaturnianJP/AutoSaveScript-for-Unity/releases/download/2.0.5/satania.autosave-2.0.5.zip",
+                                                                             "legacyFolders":  {
+
+                                                                                               },
+                                                                             "legacyFiles":  {
+
+                                                                                             },
+                                                                             "localPath":  ""
+                                                                         },
+                                                               "2.0.4":  {
+                                                                             "name":  "satania.autosave",
+                                                                             "displayName":  "Unity AutoSave",
+                                                                             "version":  "2.0.4",
+                                                                             "unity":  "2019.4",
+                                                                             "description":  "Unity AutoSave",
+                                                                             "gitDependencies":  {
+
+                                                                                                 },
+                                                                             "vpmDependencies":  {
+
+                                                                                                 },
+                                                                             "author":  {
+                                                                                            "name":  "satania",
+                                                                                            "email":  "osigoto@satania.net",
+                                                                                            "url":  "https://saturnianshop.booth.pm/"
+                                                                                        },
+                                                                             "hideInEditor":  false,
+                                                                             "zipSHA256":  "1100e6350f790c2bbb86d9fbb64614e09c884ce95c791444c356ce8c6e9ac815",
+                                                                             "url":  "https://github.com/SaturnianJP/AutoSaveScript-for-Unity/releases/download/2.0.4/satania.autosave-2.0.4.zip",
+                                                                             "legacyFolders":  {
+
+                                                                                               },
+                                                                             "legacyFiles":  {
+
+                                                                                             },
+                                                                             "localPath":  ""
+                                                                         },
+                                                               "2.0.3":  {
+                                                                             "name":  "satania.autosave",
+                                                                             "displayName":  "Unity AutoSave",
+                                                                             "version":  "2.0.3",
+                                                                             "unity":  "2019.4",
+                                                                             "description":  "Unity AutoSave",
+                                                                             "gitDependencies":  {
+
+                                                                                                 },
+                                                                             "vpmDependencies":  {
+
+                                                                                                 },
+                                                                             "author":  {
+                                                                                            "name":  "satania",
+                                                                                            "email":  "saturnianpersonal@gmail.com",
+                                                                                            "url":  "https://saturnianshop.booth.pm/"
+                                                                                        },
+                                                                             "hideInEditor":  false,
+                                                                             "zipSHA256":  "6fcdecff8707c5d1583ad6c71752cd7b0ea8bf94acdca9b656ac3089b21b99c1",
+                                                                             "url":  "https://github.com/SaturnianJP/AutoSaveScript-for-Unity/releases/download/2.0.3/satania.autosave-2.0.3.zip",
+                                                                             "legacyFolders":  {
+
+                                                                                               },
+                                                                             "legacyFiles":  {
+
+                                                                                             },
+                                                                             "localPath":  ""
+                                                                         },
+                                                               "2.0.2":  {
+                                                                             "name":  "satania.autosave",
+                                                                             "displayName":  "Unity AutoSave",
+                                                                             "version":  "2.0.2",
+                                                                             "unity":  "2019.4",
+                                                                             "description":  "Unity AutoSave",
+                                                                             "gitDependencies":  {
+
+                                                                                                 },
+                                                                             "vpmDependencies":  {
+
+                                                                                                 },
+                                                                             "author":  {
+                                                                                            "name":  "satania",
+                                                                                            "email":  "saturnianpersonal@gmail.com",
+                                                                                            "url":  "https://saturnianshop.booth.pm/"
+                                                                                        },
+                                                                             "hideInEditor":  false,
+                                                                             "zipSHA256":  "dd531b7d85588b93d33f60bd6706d39c0f2af7cc7ca5b9c23dd24ccfa956786d",
+                                                                             "url":  "https://github.com/SaturnianJP/AutoSaveScript-for-Unity/releases/download/2.0.2/satania.autosave-2.0.2.zip",
+                                                                             "legacyFolders":  {
+
+                                                                                               },
+                                                                             "legacyFiles":  {
+
+                                                                                             },
+                                                                             "localPath":  ""
+                                                                         },
+                                                               "2.0.1":  {
+                                                                             "name":  "satania.autosave",
+                                                                             "displayName":  "Unity AutoSave",
+                                                                             "version":  "2.0.1",
+                                                                             "unity":  "2019.4",
+                                                                             "description":  "Unity AutoSave",
+                                                                             "gitDependencies":  {
+
+                                                                                                 },
+                                                                             "vpmDependencies":  {
+
+                                                                                                 },
+                                                                             "author":  {
+                                                                                            "name":  "satania",
+                                                                                            "email":  "saturnianpersonal@gmail.com",
+                                                                                            "url":  "https://saturnianshop.booth.pm/"
+                                                                                        },
+                                                                             "hideInEditor":  false,
+                                                                             "zipSHA256":  "4cce41b7c71c6dad9c3fc2d1311f56d28e4e6ee9bf828f63f06ada9a2be89b1d",
+                                                                             "url":  "https://github.com/SaturnianJP/AutoSaveScript-for-Unity/releases/download/2.0.1/satania.autosave-2.0.1.zip",
+                                                                             "legacyFolders":  {
+
+                                                                                               },
+                                                                             "legacyFiles":  {
+
+                                                                                             },
+                                                                             "localPath":  ""
+                                                                         },
+                                                               "2.0.0":  {
+                                                                             "name":  "satania.autosave",
+                                                                             "displayName":  "Unity AutoSave",
+                                                                             "version":  "2.0.0",
+                                                                             "unity":  "2019.4",
+                                                                             "description":  "Unity AutoSave",
+                                                                             "gitDependencies":  {
+
+                                                                                                 },
+                                                                             "vpmDependencies":  {
+
+                                                                                                 },
+                                                                             "author":  {
+                                                                                            "name":  "satania",
+                                                                                            "email":  "saturnianpersonal@gmail.com",
+                                                                                            "url":  "https://saturnianshop.booth.pm/"
+                                                                                        },
+                                                                             "hideInEditor":  false,
+                                                                             "zipSHA256":  "2d2b0bad0feb80a1cf6399bd2ce8072eb506a9a51db4d3c0ede8a333cbc7b1a7",
+                                                                             "url":  "https://github.com/SaturnianJP/AutoSaveScript-for-Unity/releases/download/2.0.0/satania.autosave-2.0.0.zip",
+                                                                             "legacyFolders":  {
+
+                                                                                               },
+                                                                             "legacyFiles":  {
+
+                                                                                             },
+                                                                             "localPath":  ""
+                                                                         }
+                                                           }
+                                          }
+                 }
+}
